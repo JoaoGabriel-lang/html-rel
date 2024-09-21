@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  
+}
+body{
+    font-family: "Roboto", sans-serif;
+
+
+    
+}
+
+header{
+display: flex;
+align-items: center;
+justify-content: left;
+}
+
+header img{
+width: 5vw;
+margin-left: 2vw;
+margin-top: 1vw;
+}
+
+h1{
+display: flex;
+align-items: center;
+justify-content: center;
+position: relative;
+bottom: 5vw;
+font: ;
+
+}
+
+.Banner{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+   
+}
+.Banner img{
+width: 50vw;
+border-radius: 2vw;
+
+}
